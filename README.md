@@ -1,0 +1,2 @@
+
+Model to recognize handwriting
